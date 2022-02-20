@@ -1,0 +1,7 @@
+Merge made by the 'ort' strategy.
+ 0x01-git/bash/98     | 0
+ 0x01-git/bash/alx    | 2 +-
+ 0x01-git/bash/school | 2 +-
+ README.md            | 2 +-
+ 4 files changed, 3 insertions(+), 3 deletions(-)
+ create mode 100644 0x01-git/bash/98
